@@ -1,8 +1,9 @@
 {
-  "name": "test-gatsby-site",
+  "name": "gatsby-site",
   "version": "1.0.0",
   "private": true,
-  "description": "Test Gatsby Site",
+  "description": "Gatsby Site",
+  "author": "Calbran",
   "keywords": [
     "gatsby"
   ],
@@ -15,12 +16,6 @@
   },
   "dependencies": {
     "gatsby": "^3.6.2",
-    "gatsby-plugin-gatsby-cloud": "^2.7.1",
-    "gatsby-plugin-image": "^1.7.1",
-    "gatsby-plugin-sharp": "^3.7.1",
-    "gatsby-plugin-sitemap": "^4.3.1",
-    "gatsby-source-filesystem": "^3.7.1",
-    "gatsby-transformer-sharp": "^3.7.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
